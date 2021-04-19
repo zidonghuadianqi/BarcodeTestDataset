@@ -1,5 +1,7 @@
 # BarcodeTestDataset
 Barcode test dataset for repo:https://github.com/SUSTech-OpenCV/Barcode
+
+Most of images come from http://artelab.dista.uninsubria.it/downloads/datasets/barcode/medium_barcode_1d/medium_barcode_1d.html
 # 通过率测试说明
 
 ## 运行测试
